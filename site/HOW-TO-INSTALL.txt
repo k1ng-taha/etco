@@ -1,0 +1,120 @@
+ETCO WEBSITE – HOW TO INSTALL
+=============================
+
+This package is a complete new website (English + Arabic) with a new admin panel.
+It runs on your current hosting (PHP + Apache). No database is needed.
+
+Time needed: about 15 minutes. You need access to your hosting control panel
+(cPanel / File Manager) or FTP.
+
+
+STEP 1 – Back up your current website
+-------------------------------------
+In cPanel → File Manager, open the "public_html" folder (the folder that holds
+your current website), select everything and click "Compress" → Zip.
+Download that zip to your computer and keep it safe.
+
+
+STEP 2 – Move the old website out of the way (keep its photos!)
+--------------------------------------------------------------
+Still in public_html:
+  1. Create a new folder called  old-site
+  2. Move EVERYTHING into "old-site" EXCEPT these two folders:
+        cms        (it contains your project & gallery photos)
+        images     (it contains your logo)
+     Make sure the old "admin" folder and the old "index.php" go into old-site.
+
+The new website uses the photos that are inside "cms" and "images", so do not
+move or delete those two folders yet (see Step 6).
+
+
+STEP 3 – Upload the new website
+-------------------------------
+Upload "etco-website.zip" into public_html and click "Extract".
+You should now see these in public_html:
+  admin/   assets/   data/   inc/   pages/   uploads/
+  index.php   config.php   .htaccess   .user.ini   (and cms/, images/, old-site/)
+
+(If you cannot see .htaccess, turn on "Show hidden files" in File Manager settings.)
+
+
+STEP 4 – Check folder permissions
+---------------------------------
+The folders "data" and "uploads" must be writable. In File Manager, right-click
+each → "Change Permissions" → 755. (This is usually already correct.)
+
+
+STEP 5 – Create your private admin account
+------------------------------------------
+Open:  https://etcocontracting.com/admin/
+The first time, it asks for:
+  - the SETUP CODE: open the file config.php and copy the value after 'setup_code'
+    (nobody can open config.php from the web)
+  - the username and password YOU choose (at least 8 characters).
+Without the setup code nobody else can create an account, and once your account
+exists the setup screen disappears for good. From then on, /admin/ only shows a
+sign-in box. Keep your password private.
+
+Then open the website:  https://etcocontracting.com/
+It opens in English, or in Arabic if the visitor's browser is set to Arabic.
+Old addresses (like /Projects or /Contactus) automatically go to the new pages.
+
+
+STEP 6 – (Optional, recommended) Move the old photos into the new site
+---------------------------------------------------------------------
+In the admin panel: Settings → "Tools & server check" → "Copy old photos now".
+After it says the photos were copied, the old "cms", "images" and "old-site"
+folders are not needed anymore and you can delete them (keep your Step 1 backup).
+
+
+STEP 7 – Test the forms
+-----------------------
+Admin → Tools & server check → "Send a test email". Then send yourself a message
+from the website's Contact us page. Messages and job applications are ALWAYS
+saved in the admin panel (Messages / Job applications), and are also emailed
+to the address set in Company info & contact → "Send website messages to".
+Tip: if emails go to Hotmail's junk folder, mark them "Not junk" once.
+
+
+USING THE ADMIN PANEL
+---------------------
+- Every website page has its own entry in the left menu, with tabs for its parts.
+- Every text has an English box and an Arabic box side by side.
+  If an Arabic box is left empty, the English text is shown instead.
+- In titles, put *stars* around a word to show it in blue: Discover our *sectors*
+- Photos: click "Upload photo". Large photos are reduced automatically.
+- Lists (projects, sectors, slides…): use ↑ ↓ to change the order, the Yes/No
+  buttons to show/hide, and Edit to change. In the gallery, drag photos to reorder.
+- Every Save makes a backup automatically. Settings → Backups lets you go back.
+- Settings → "Menu & button texts" changes the header menu, buttons and form labels.
+- Settings → "My account & users" changes your password or adds another person.
+
+
+KEEPING THE ADMIN PANEL PRIVATE
+-------------------------------
+- The admin panel is NOT linked anywhere on the public website and is hidden
+  from Google. Visitors never see it.
+- It needs your username + password. After 8 wrong attempts, sign-in is paused
+  for 15 minutes. The dashboard shows the date and IP of your previous sign-in,
+  so you can spot anything unusual.
+- Only people listed in "My account & users" can sign in. Don't add anyone else.
+- Extra secret address (optional): rename the folder "admin" to a name only you
+  know, for example "etco-panel-58". Your admin address then becomes
+  https://etcocontracting.com/etco-panel-58/  and /admin/ no longer exists.
+  Nothing else needs to change.
+- Extra lock (optional): in cPanel, open "Directory Privacy", choose the admin
+  folder, tick "Password protect this directory" and create a user. Your browser
+  will then ask for that second password before the admin sign-in page even loads.
+
+
+IF SOMETHING DOES NOT WORK
+--------------------------
+- Pages show "Not Found" but the home page works:
+    open config.php and change  'pretty_urls' => true  to  'pretty_urls' => false
+- A blank page or "500 error":
+    open config.php and set  'debug' => true  to see the error message, then set
+    it back to false. The website needs PHP 7.4 or newer (cPanel → "Select PHP Version").
+- Photos missing: make sure the "cms" and "images" folders are still in public_html,
+    or run Step 6.
+- To go back to the old website: delete the new files and move the contents of
+    "old-site" back into public_html (or restore your Step 1 backup).

@@ -1,0 +1,4 @@
+# Only index.php, admin.css and admin.js may be opened directly
+<FilesMatch "^(lib|schema|views)\.php$">
+  Require all denied
+</FilesMatch>

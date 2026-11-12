@@ -1,0 +1,28 @@
+# Photos copied from the live server for local preview (they already live on the hosting)
+site/cms/
+
+# Private settings (holds the admin setup code) – see site/config.example.php
+site/config.php
+
+# Packaged copies of the site – they contain config.php with the setup code
+*.zip
+
+# Private data the admin panel creates while running – never commit
+site/data/users.json
+site/data/messages.json
+site/data/applications.json
+site/data/ratelimit.json
+site/data/backups/*
+!site/data/backups/index.html
+site/data/cv/*
+!site/data/cv/index.html
+!site/data/cv/.htaccess
+site/uploads/*
+!site/uploads/index.html
+!site/uploads/.htaccess
+
+# PHP sessions / logs / OS clutter
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store

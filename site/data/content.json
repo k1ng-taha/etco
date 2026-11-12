@@ -1,0 +1,2579 @@
+{
+ "version": 1,
+ "settings": {
+  "company_name": {
+   "en": "ETCO for General Trading & Contracting",
+   "ar": "إتكو للتجارة العامة والمقاولات"
+  },
+  "short_name": {
+   "en": "ETCO",
+   "ar": "إتكو"
+  },
+  "tagline": {
+   "en": "General contracting, MEP & project management since 2001",
+   "ar": "مقاولات عامة وأعمال كهروميكانيكية وإدارة مشاريع منذ 2001"
+  },
+  "phone_display": "+961 3 338 648",
+  "phone_link": "+9613338648",
+  "email": "etco14@hotmail.com",
+  "address": {
+   "en": "Raouche – Shamas Building, 3rd floor",
+   "ar": "الروشة – بناية شمص، الطابق الثالث"
+  },
+  "city": {
+   "en": "Beirut, Lebanon",
+   "ar": "بيروت، لبنان"
+  },
+  "hours_week": {
+   "en": "Mon – Fri: 8:30 am – 5:00 pm",
+   "ar": "الاثنين – الجمعة: 8:30 صباحاً – 5:00 مساءً"
+  },
+  "hours_sat": {
+   "en": "Saturday: 8:30 am – 1:00 pm",
+   "ar": "السبت: 8:30 صباحاً – 1:00 ظهراً"
+  },
+  "map_query": "Raouche, Beirut, Lebanon",
+  "founded": "2001",
+  "logo": "assets/img/logo.svg",
+  "favicon": "",
+  "meta_description": {
+   "en": "ETCO for General Trading & Contracting is a Lebanese contractor founded in 2001, delivering MEP, construction, renovation, infrastructure, facility management and project management services.",
+   "ar": "إتكو للتجارة العامة والمقاولات شركة لبنانية تأسّست عام 2001، تقدّم خدمات الأعمال الكهروميكانيكية والبناء والترميم والبنى التحتية وإدارة المرافق وإدارة المشاريع."
+  },
+  "mail_from": "no-reply@etcocontracting.com",
+  "notify_email": "etco14@hotmail.com",
+  "logo_light": "assets/img/logo-light.svg"
+ },
+ "home": {
+  "hero_video": "",
+  "intro_eyebrow": {
+   "en": "About ETCO",
+   "ar": "عن إتكو"
+  },
+  "intro_title": {
+   "en": "Building with *integrity* since 2001",
+   "ar": "نبني *بنزاهة* منذ عام 2001"
+  },
+  "intro_text": {
+   "en": "Founded by Oussama Youssef, ETCO delivers construction, MEP, maintenance and project management services across Lebanon and the region. Our team turns clients' visions into durable, efficient buildings, with the same care on a café fit-out as on a 100,000 m² shopping complex.",
+   "ar": "أسّسها أسامة يوسف، وتقدّم إتكو خدمات البناء والأعمال الكهروميكانيكية والصيانة وإدارة المشاريع في مختلف أنحاء لبنان والمنطقة. يحوّل فريقنا رؤى العملاء إلى مبانٍ متينة وفعّالة، بالعناية نفسها في تجهيز مقهى صغير كما في مجمّع تجاري بمساحة 100,000 متر مربع."
+  },
+  "sectors_title": {
+   "en": "Discover our *sectors*",
+   "ar": "اكتشف *قطاعاتنا*"
+  },
+  "sectors_text": {
+   "en": "Six areas of expertise, one accountable partner from design to maintenance.",
+   "ar": "ستة مجالات خبرة، وشريك واحد مسؤول من التصميم حتى الصيانة."
+  },
+  "projects_title": {
+   "en": "Landmark *projects*",
+   "ar": "مشاريع *بارزة*"
+  },
+  "projects_text": {
+   "en": "From exhibition centers to hospitals, universities and hotels: a selection of the work we are proud of.",
+   "ar": "من مراكز المعارض إلى المستشفيات والجامعات والفنادق: مختارات من أعمال نفخر بها."
+  },
+  "values_title": {
+   "en": "What *drives* us",
+   "ar": "ما *يحرّكنا*"
+  },
+  "cta_contact_title": {
+   "en": "Have a project?",
+   "ar": "لديك مشروع؟"
+  },
+  "cta_contact_text": {
+   "en": "Tell us about it. Our team will study your needs and propose the right solution.",
+   "ar": "أخبرنا عنه، وسيدرس فريقنا احتياجاتك ويقترح الحل المناسب."
+  },
+  "cta_contact_image": "cms/upload/projects/683edd5a1cf07_projects.jpg",
+  "cta_join_title": {
+   "en": "Join our team",
+   "ar": "انضم إلى فريقنا"
+  },
+  "cta_join_text": {
+   "en": "Engineers, technicians and site teams: build your career with ETCO.",
+   "ar": "مهندسون وفنيون وفرق مواقع: ابنوا مسيرتكم المهنية مع إتكو."
+  },
+  "cta_join_image": "cms/upload/services/services_2024-05-29-14-32-02_66573c62e84b5.png"
+ },
+ "slides": [
+  {
+   "id": "s1",
+   "visible": true,
+   "image": "cms/upload/banners/185f4e37371dca5_banner.jpg",
+   "title": {
+    "en": "Your vision,",
+    "ar": "رؤيتك،"
+   },
+   "highlight": {
+    "en": "our mission.",
+    "ar": "مهمّتنا."
+   },
+   "text": {
+    "en": "General contracting, MEP and project management in Lebanon since 2001.",
+    "ar": "مقاولات عامة وأعمال كهروميكانيكية وإدارة مشاريع في لبنان منذ عام 2001."
+   }
+  },
+  {
+   "id": "s2",
+   "visible": true,
+   "image": "cms/upload/projects/683ed34cd7d74_projects.jpg",
+   "title": {
+    "en": "Comfort engineered",
+    "ar": "راحة مصمّمة"
+   },
+   "highlight": {
+    "en": "at scale.",
+    "ar": "على نطاق واسع."
+   },
+   "text": {
+    "en": "More than 140,000 m² of air-conditioned space delivered at BIEL, Pavillon Royal and Cascada.",
+    "ar": "أكثر من 140,000 متر مربع من المساحات المكيّفة في بيال وبافيون رويال وكاسكادا."
+   }
+  },
+  {
+   "id": "s3",
+   "visible": true,
+   "image": "cms/upload/projects/5f84375f0987e_projects.jpg",
+   "title": {
+    "en": "Built to last,",
+    "ar": "نبني لتدوم،"
+   },
+   "highlight": {
+    "en": "built for Lebanon.",
+    "ar": "نبني من أجل لبنان."
+   },
+   "text": {
+    "en": "From Beirut to the Bekaa and beyond, we deliver projects that stand the test of time.",
+    "ar": "من بيروت إلى البقاع وما بعدهما، ننفّذ مشاريع تصمد أمام الزمن."
+   }
+  }
+ ],
+ "stats": [
+  {
+   "id": "st1",
+   "visible": true,
+   "value": "{years}",
+   "suffix": "+",
+   "label": {
+    "en": "Years of experience",
+    "ar": "سنة من الخبرة"
+   }
+  },
+  {
+   "id": "st2",
+   "visible": true,
+   "value": "{projects}",
+   "suffix": "",
+   "label": {
+    "en": "Landmark projects",
+    "ar": "مشروعاً بارزاً"
+   }
+  },
+  {
+   "id": "st3",
+   "visible": true,
+   "value": "140,000",
+   "suffix": "m²",
+   "label": {
+    "en": "Air-conditioned space delivered",
+    "ar": "من المساحات المكيّفة المنجزة"
+   }
+  },
+  {
+   "id": "st4",
+   "visible": true,
+   "value": "6",
+   "suffix": "",
+   "label": {
+    "en": "Areas of expertise",
+    "ar": "مجالات خبرة"
+   }
+  }
+ ],
+ "sectors": [
+  {
+   "id": "mep",
+   "slug": "mep-services",
+   "visible": true,
+   "icon": "mep",
+   "image": "cms/upload/services/services_2024-05-29-14-32-28_66573c7cec023.png",
+   "image2": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[13].jpg",
+   "title": {
+    "en": "Comprehensive MEP Services",
+    "ar": "الأعمال الكهروميكانيكية المتكاملة (MEP)"
+   },
+   "summary": {
+    "en": "Mechanical, electrical and plumbing systems designed, installed and maintained for buildings of every type.",
+    "ar": "أنظمة ميكانيكية وكهربائية وصحية نصمّمها ونركّبها ونصونها لجميع أنواع المباني."
+   },
+   "body": {
+    "en": "ETCO offers a full range of Mechanical, Electrical and Plumbing (MEP) services tailored to the specific needs of each project. Our mechanical teams design and install systems for optimal performance and efficiency, our electrical services cover everything from wiring and installation to regular maintenance, and our plumbing solutions serve residential and commercial properties alike.\n\nHVAC is at the heart of our track record. From BIEL and Pavillon Royal to Cascada Mall, we have delivered air-conditioning, ventilation and chilled-water systems that keep large venues comfortable, safe and energy-efficient.",
+    "ar": "تقدّم إتكو مجموعة كاملة من خدمات الأعمال الميكانيكية والكهربائية والصحية (MEP) المصمّمة وفق الاحتياجات الخاصة بكل مشروع. تتولّى فرقنا الميكانيكية تصميم الأنظمة وتركيبها لتحقيق أفضل أداء وكفاءة، وتشمل خدماتنا الكهربائية كل شيء من التمديدات والتركيبات إلى الصيانة الدورية، فيما تخدم حلولنا للتمديدات الصحية العقارات السكنية والتجارية على حدّ سواء.\n\nتشكّل أنظمة التدفئة والتهوئة والتكييف (HVAC) جوهر سجلّ إنجازاتنا. فمن بيال وبافيون رويال إلى كاسكادا مول، نفّذنا أنظمة تكييف وتهوئة ومياه مبرّدة تحافظ على راحة المنشآت الكبرى وسلامتها وكفاءتها في استهلاك الطاقة."
+   },
+   "points": [
+    {
+     "en": "Mechanical systems design & installation",
+     "ar": "تصميم الأنظمة الميكانيكية وتركيبها"
+    },
+    {
+     "en": "Electrical wiring, installation & maintenance",
+     "ar": "التمديدات والتركيبات الكهربائية وصيانتها"
+    },
+    {
+     "en": "Plumbing for residential & commercial buildings",
+     "ar": "التمديدات الصحية للمباني السكنية والتجارية"
+    },
+    {
+     "en": "HVAC, chilled-water & DX systems",
+     "ar": "أنظمة التكييف والمياه المبرّدة والتمدّد المباشر"
+    },
+    {
+     "en": "Fire-protection systems",
+     "ar": "أنظمة الحماية من الحرائق"
+    }
+   ]
+  },
+  {
+   "id": "structural",
+   "slug": "structural-construction",
+   "visible": true,
+   "icon": "structural",
+   "image": "cms/upload/services/services_2024-05-29-14-32-02_66573c62e84b5.png",
+   "image2": "",
+   "title": {
+    "en": "Structural & Construction Services",
+    "ar": "الإنشاءات والأعمال الهيكلية"
+   },
+   "summary": {
+    "en": "From site preparation and foundations to concrete and finishing works.",
+    "ar": "من تجهيز المواقع والأساسات إلى أعمال الخرسانة والتشطيبات."
+   },
+   "body": {
+    "en": "ETCO provides comprehensive site preparation, including clearing, grading and earthmoving, to establish a solid base for every structure. Our foundation works are tailored to site-specific conditions, ensuring long-term stability, while our structural engineering solutions deliver safe, efficient and resilient buildings.\n\nOur concrete services cover both structural and decorative needs, and our finishing teams handle plastering, painting and detailing with precision, for a polished, high-quality result.",
+    "ar": "توفّر إتكو أعمال تجهيز شاملة للمواقع، تشمل التنظيف والتسوية وأعمال الحفر والردم، لتأسيس قاعدة متينة لكل منشأة. وتُنفَّذ أعمال الأساسات لدينا وفق الظروف الخاصة بكل موقع لضمان الثبات على المدى الطويل، فيما تقدّم حلولنا في الهندسة الإنشائية مبانيَ آمنة وفعّالة ومتينة.\n\nتغطي خدماتنا في أعمال الخرسانة الاحتياجات الإنشائية والجمالية معاً، وتتولّى فرق التشطيب لدينا أعمال الطرش والدهان والتفاصيل النهائية بدقة، للحصول على نتيجة متقنة وعالية الجودة."
+   },
+   "points": [
+    {
+     "en": "Site clearing, grading & earthmoving",
+     "ar": "تنظيف المواقع وتسويتها وأعمال الحفر والردم"
+    },
+    {
+     "en": "Foundations adapted to site conditions",
+     "ar": "أساسات مصمّمة وفق ظروف الموقع"
+    },
+    {
+     "en": "Structural engineering & construction",
+     "ar": "الهندسة الإنشائية والتنفيذ"
+    },
+    {
+     "en": "Structural & decorative concrete",
+     "ar": "الخرسانة الإنشائية والزخرفية"
+    },
+    {
+     "en": "Plastering, painting & finishing",
+     "ar": "الطرش والدهان والتشطيبات"
+    }
+   ]
+  },
+  {
+   "id": "renovation",
+   "slug": "renovation-rehabilitation",
+   "visible": true,
+   "icon": "renovation",
+   "image": "cms/upload/services/services_2024-05-29-21-29-27_66579e372a59c.png",
+   "image2": "cms/uploads/gallery/PHOTO-RAOUCHE ROCK SUITES.jpg",
+   "title": {
+    "en": "Renovation & Rehabilitation",
+    "ar": "الترميم وإعادة التأهيل"
+   },
+   "summary": {
+    "en": "New builds, extensions and complete renovations, including décor and fit-out.",
+    "ar": "مبانٍ جديدة وتوسعات وترميم كامل، بما في ذلك الديكور والتجهيز."
+   },
+   "body": {
+    "en": "Whether it is building a new structure, adding to an existing building or renovating an older one, ETCO delivers high-quality results. We manage complete fit-outs for hotels, restaurants, cafés and retail spaces, coordinating décor, electromechanical works and finishes under one contract.\n\nAt Raouche Rock Suites, for example, our scope extended from electromechanical systems to interior design and furniture supply, giving the owner a single accountable partner from start to finish.",
+    "ar": "سواء تعلّق الأمر ببناء منشأة جديدة، أو توسعة مبنى قائم، أو ترميم مبنى قديم، تحرص إتكو على تقديم نتائج عالية الجودة. ونتولّى أعمال التجهيز الكاملة للفنادق والمطاعم والمقاهي والمساحات التجارية، مع تنسيق أعمال الديكور والأعمال الكهروميكانيكية والتشطيبات ضمن عقد واحد.\n\nففي فندق روشة روك سويتس مثلاً، امتدّ نطاق عملنا من الأنظمة الكهروميكانيكية إلى التصميم الداخلي وتوريد الأثاث، ما وفّر للمالك شريكاً واحداً مسؤولاً من البداية حتى النهاية."
+   },
+   "points": [
+    {
+     "en": "New buildings & extensions",
+     "ar": "مبانٍ جديدة وتوسعات"
+    },
+    {
+     "en": "Renovation of existing buildings",
+     "ar": "ترميم المباني القائمة"
+    },
+    {
+     "en": "Interior & exterior décor",
+     "ar": "الديكور الداخلي والخارجي"
+    },
+    {
+     "en": "Hotel, restaurant & retail fit-out",
+     "ar": "تجهيز الفنادق والمطاعم والمحال التجارية"
+    },
+    {
+     "en": "Interior design & furniture supply",
+     "ar": "التصميم الداخلي وتوريد الأثاث"
+    }
+   ]
+  },
+  {
+   "id": "infrastructure",
+   "slug": "infrastructure-development",
+   "visible": true,
+   "icon": "infrastructure",
+   "image": "cms/upload/services/services_2025-06-03-08-12-42_683eae7a93d3d.jpg",
+   "image2": "",
+   "title": {
+    "en": "Infrastructure Development",
+    "ar": "تطوير البنى التحتية"
+   },
+   "summary": {
+    "en": "Roads, utilities and networks that support urban and rural communities.",
+    "ar": "طرق ومرافق وشبكات تخدم المجتمعات في المدن والأرياف."
+   },
+   "body": {
+    "en": "ETCO provides a full suite of infrastructure services for urban and rural projects. Our road works cover the construction and maintenance of roads and highways, ensuring safe and durable transport networks.\n\nWe also specialize in utility works, managing the installation and upkeep of electrical, water and sewage networks that support essential services. Every project is delivered to the highest standards, contributing to the functionality and growth of the communities we serve.",
+    "ar": "تقدّم إتكو مجموعة متكاملة من خدمات البنى التحتية للمشاريع في المدن والأرياف. وتشمل أعمالنا في مجال الطرق إنشاء الطرق والأوتوسترادات وصيانتها، بما يضمن شبكات نقل آمنة ومتينة.\n\nكما نتخصّص في أعمال المرافق العامة، فنتولّى تركيب شبكات الكهرباء والمياه والصرف الصحي وصيانتها دعماً للخدمات الأساسية. ويُنفَّذ كل مشروع وفق أعلى المعايير، بما يسهم في تحسين أداء المجتمعات التي نخدمها ونموّها."
+   },
+   "points": [
+    {
+     "en": "Road & highway construction",
+     "ar": "إنشاء الطرق والأوتوسترادات"
+    },
+    {
+     "en": "Road maintenance",
+     "ar": "صيانة الطرق"
+    },
+    {
+     "en": "Electrical networks",
+     "ar": "شبكات الكهرباء"
+    },
+    {
+     "en": "Water & sewage networks",
+     "ar": "شبكات المياه والصرف الصحي"
+    }
+   ]
+  },
+  {
+   "id": "facility",
+   "slug": "facility-management",
+   "visible": true,
+   "icon": "facility",
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[3].jpg",
+   "image2": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[18].jpg",
+   "title": {
+    "en": "Facility Management",
+    "ar": "إدارة المرافق"
+   },
+   "summary": {
+    "en": "Maintenance, repairs, cleaning and security to keep your property running smoothly.",
+    "ar": "صيانة وإصلاحات وتنظيف وحراسة لضمان تشغيل منشأتك بسلاسة."
+   },
+   "body": {
+    "en": "ETCO offers comprehensive facility management services to keep your property operating smoothly and efficiently. Routine and preventive maintenance identify and address issues before they escalate, and when repairs are needed, our teams respond promptly to minimize downtime.\n\nWe also provide professional cleaning and security services. Clients such as the Lebanese Army and Sayf rely on our long-term maintenance contracts to keep critical systems running every day.",
+    "ar": "تقدّم إتكو خدمات شاملة لإدارة المرافق لضمان تشغيل منشأتك بسلاسة وكفاءة. فالصيانة الدورية والوقائية تكشف المشكلات وتعالجها قبل تفاقمها، وعند الحاجة إلى إصلاحات، تتدخّل فرقنا بسرعة للحدّ من فترات التوقف.\n\nكما نوفّر خدمات تنظيف وحراسة احترافية. ويعتمد عملاء مثل الجيش اللبناني و«سيف» على عقود الصيانة طويلة الأمد لدينا للحفاظ على عمل الأنظمة الحيوية يومياً."
+   },
+   "points": [
+    {
+     "en": "Routine maintenance",
+     "ar": "الصيانة الدورية"
+    },
+    {
+     "en": "Preventive maintenance",
+     "ar": "الصيانة الوقائية"
+    },
+    {
+     "en": "Fast repairs",
+     "ar": "الإصلاحات السريعة"
+    },
+    {
+     "en": "Cleaning services",
+     "ar": "خدمات التنظيف"
+    },
+    {
+     "en": "Security services",
+     "ar": "خدمات الحراسة والأمن"
+    },
+    {
+     "en": "Long-term maintenance contracts",
+     "ar": "عقود صيانة طويلة الأمد"
+    }
+   ]
+  },
+  {
+   "id": "pm",
+   "slug": "project-management",
+   "visible": true,
+   "icon": "pm",
+   "image": "cms/upload/services/services_2024-05-29-14-35-43_66573d3f59b1a.png",
+   "image2": "",
+   "title": {
+    "en": "Project Management",
+    "ar": "إدارة المشاريع"
+   },
+   "summary": {
+    "en": "Scheduling, budgeting and supervision to deliver on time and on budget.",
+    "ar": "جدولة وموازنة وإشراف لتسليم المشاريع في موعدها وضمن الميزانية."
+   },
+   "body": {
+    "en": "ETCO excels in comprehensive project management, ensuring that projects are completed on time and within budget. We provide precise scheduling to keep every phase on track and detailed budgeting to manage costs effectively.\n\nOur subcontractor management ensures that only the best professionals are selected and coordinated, and our supervision teams oversee all site activities so that every phase meets our standards of quality and efficiency.",
+    "ar": "تتميّز إتكو في الإدارة الشاملة للمشاريع، بما يضمن إنجازها في الوقت المحدد وضمن الميزانية. ونعتمد جدولة دقيقة للحفاظ على سير كل مرحلة وفق الخطة، وموازنة تفصيلية لضبط التكاليف بفعالية.\n\nوتضمن إدارتنا للمقاولين الفرعيين اختيار أفضل المهنيين وتنسيق عملهم، فيما تشرف فرقنا على جميع أنشطة الموقع لتستوفي كل مرحلة معاييرنا في الجودة والكفاءة."
+   },
+   "points": [
+    {
+     "en": "Project scheduling",
+     "ar": "جدولة المشاريع"
+    },
+    {
+     "en": "Budgeting & cost control",
+     "ar": "الموازنة وضبط التكاليف"
+    },
+    {
+     "en": "Subcontractor management",
+     "ar": "إدارة المقاولين الفرعيين"
+    },
+    {
+     "en": "Site supervision",
+     "ar": "الإشراف على المواقع"
+    },
+    {
+     "en": "Consulting services",
+     "ar": "الخدمات الاستشارية"
+    }
+   ]
+  }
+ ],
+ "categories": [
+  {
+   "id": "hospitality",
+   "visible": true,
+   "name": {
+    "en": "Hospitality",
+    "ar": "الضيافة"
+   }
+  },
+  {
+   "id": "commercial",
+   "visible": true,
+   "name": {
+    "en": "Commercial",
+    "ar": "تجاري"
+   }
+  },
+  {
+   "id": "government",
+   "visible": true,
+   "name": {
+    "en": "Government",
+    "ar": "حكومي"
+   }
+  },
+  {
+   "id": "health-education",
+   "visible": true,
+   "name": {
+    "en": "Healthcare & Education",
+    "ar": "الصحة والتعليم"
+   }
+  },
+  {
+   "id": "residential",
+   "visible": true,
+   "name": {
+    "en": "Residential",
+    "ar": "سكني"
+   }
+  },
+  {
+   "id": "industrial",
+   "visible": true,
+   "name": {
+    "en": "Industrial",
+    "ar": "صناعي"
+   }
+  },
+  {
+   "id": "community",
+   "visible": true,
+   "name": {
+    "en": "Religious & Community",
+    "ar": "ديني ومجتمعي"
+   }
+  }
+ ],
+ "regions": [
+  {
+   "id": "beirut",
+   "visible": true,
+   "name": {
+    "en": "Beirut",
+    "ar": "بيروت"
+   },
+   "text": {
+    "en": "Our home city and head office: exhibition centers, hotels, retail, residential and community projects.",
+    "ar": "مدينتنا ومقرّنا الرئيسي: مراكز معارض وفنادق ومحال تجارية ومشاريع سكنية ومجتمعية."
+   }
+  },
+  {
+   "id": "mount-lebanon",
+   "visible": true,
+   "name": {
+    "en": "Mount Lebanon",
+    "ar": "جبل لبنان"
+   },
+   "text": {
+    "en": "Healthcare, hospitality and residential developments from Jounieh and Antelias to the Chouf coast.",
+    "ar": "مشاريع صحية وسياحية وسكنية من جونيه وأنطلياس إلى ساحل الشوف."
+   }
+  },
+  {
+   "id": "bekaa",
+   "visible": true,
+   "name": {
+    "en": "Bekaa",
+    "ar": "البقاع"
+   },
+   "text": {
+    "en": "Large-scale commercial, hospitality and fitness projects in the Bekaa valley.",
+    "ar": "مشاريع تجارية وسياحية ورياضية كبرى في سهل البقاع."
+   }
+  },
+  {
+   "id": "lebanon",
+   "visible": true,
+   "name": {
+    "en": "Across Lebanon",
+    "ar": "في مختلف المناطق اللبنانية"
+   },
+   "text": {
+    "en": "Government and security facilities served at multiple sites nationwide.",
+    "ar": "منشآت حكومية وأمنية نخدمها في مواقع متعددة على امتداد الأراضي اللبنانية."
+   }
+  },
+  {
+   "id": "uae",
+   "visible": true,
+   "name": {
+    "en": "United Arab Emirates",
+    "ar": "الإمارات العربية المتحدة"
+   },
+   "text": {
+    "en": "Industrial electromechanical works delivered in Dubai.",
+    "ar": "أعمال كهروميكانيكية صناعية منفّذة في دبي."
+   }
+  }
+ ],
+ "projects": [
+  {
+   "id": "biel",
+   "slug": "biel",
+   "visible": true,
+   "featured": true,
+   "image": "cms/upload/projects/683ed34cd7d74_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "BIEL – Beirut International Exhibition & Leisure Center",
+    "ar": "بيال – مركز بيروت الدولي للمعارض والترفيه"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2001",
+   "category": "commercial",
+   "type": {
+    "en": "Exhibition center",
+    "ar": "مركز معارض"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "The BIEL Center is one of Beirut's largest event and exhibition spaces. In 2001, ETCO completed the full electromechanical works for the project, including the supply and installation of all air-conditioning and ventilation systems, as well as a chilled-water system covering 20,000 square meters.\n\nThe systems were designed to meet the demands of a high-capacity venue while ensuring reliable and efficient performance.",
+    "ar": "يُعدّ مركز بيال من أكبر مساحات الفعاليات والمعارض في بيروت. في عام 2001، أنجزت إتكو كامل الأعمال الكهروميكانيكية للمشروع، بما في ذلك توريد وتركيب جميع أنظمة التكييف والتهوئة، إضافةً إلى نظام مياه مبرّدة يغطي مساحة 20,000 متر مربع.\n\nوقد صُمّمت هذه الأنظمة لتلبية متطلبات منشأة ذات قدرة استيعابية عالية مع ضمان أداء موثوق وفعّال."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "pavillon-royal",
+   "slug": "pavillon-royal",
+   "visible": true,
+   "featured": true,
+   "image": "cms/upload/projects/683ed8fe5c12b_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Pavillon Royal",
+    "ar": "بافيون رويال"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2001",
+   "category": "commercial",
+   "type": {
+    "en": "Events venue",
+    "ar": "قاعة مناسبات"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "Pavillon Royal is a prestigious events venue in the BIEL area of Beirut. ETCO handled the full electromechanical scope, including the supply and installation of air-conditioning and ventilation systems. A DX (direct expansion) system was installed to cover a total area of 20,000 square meters, ensuring efficient climate control throughout the facility.\n\nETCO also executed all related electrical and plumbing works, delivering a fully integrated system ready for high-end operations.",
+    "ar": "بافيون رويال قاعة مناسبات مرموقة تقع في منطقة بيال في بيروت. تولّت إتكو كامل النطاق الكهروميكانيكي للمشروع، بما في ذلك توريد وتركيب أنظمة التكييف والتهوئة. وقد رُكّب نظام تمدّد مباشر (DX) يغطي مساحة إجمالية قدرها 20,000 متر مربع لضمان تحكّم فعّال بالمناخ في كامل المنشأة.\n\nكما نفّذت إتكو جميع الأعمال الكهربائية والصحية المرتبطة، وسلّمت نظاماً متكاملاً وجاهزاً لتشغيل راقٍ."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "cascada-village-mall",
+   "slug": "cascada-village-mall",
+   "visible": true,
+   "featured": true,
+   "image": "cms/upload/projects/5f843308c4fd9_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Cascada Village and Mall",
+    "ar": "كاسكادا فيلدج ومول"
+   },
+   "location": {
+    "en": "Bekaa, Lebanon",
+    "ar": "البقاع، لبنان"
+   },
+   "region": "bekaa",
+   "year": "2013",
+   "category": "commercial",
+   "type": {
+    "en": "Mixed-use development",
+    "ar": "مجمّع متعدّد الاستخدامات"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "ETCO carried out the complete electromechanical works for Cascada Village and Cascada Mall, a major commercial destination in the Bekaa region. The project included the supply and installation of air-conditioning and ventilation systems across 100,000 square meters, using both package units and DX systems.\n\nETCO also executed all electrical and plumbing works, along with a comprehensive fire-protection system, ensuring safety, comfort and operational reliability throughout the complex.",
+    "ar": "نفّذت إتكو كامل الأعمال الكهروميكانيكية لمشروع كاسكادا فيلدج وكاسكادا مول، أحد أبرز الوجهات التجارية في منطقة البقاع. وشمل المشروع توريد وتركيب أنظمة التكييف والتهوئة على مساحة 100,000 متر مربع باستخدام وحدات مجمّعة (Package Units) وأنظمة تمدّد مباشر (DX).\n\nكما نفّذت إتكو جميع الأعمال الكهربائية والصحية، إلى جانب نظام متكامل للحماية من الحرائق، بما يضمن السلامة والراحة وموثوقية التشغيل في كامل المجمّع."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "internal-security-forces",
+   "slug": "internal-security-forces",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/5f8433304ab9b_projects.png",
+   "image_fit": "contain",
+   "gallery": [],
+   "title": {
+    "en": "Internal Security Forces Facilities",
+    "ar": "منشآت قوى الأمن الداخلي"
+   },
+   "location": {
+    "en": "Lebanon",
+    "ar": "لبنان"
+   },
+   "region": "lebanon",
+   "year": "",
+   "category": "government",
+   "type": {
+    "en": "Security facilities",
+    "ar": "منشآت أمنية"
+   },
+   "scope": {
+    "en": "General contracting",
+    "ar": "مقاولات عامة"
+   },
+   "description": {
+    "en": "ETCO provided full general-contracting services for facilities under the Internal Security Forces in Lebanon, ensuring the timely delivery of secure and functional buildings designed to support the operational needs of the ISF across various locations.",
+    "ar": "قدّمت إتكو خدمات المقاولات العامة الكاملة لمنشآت تابعة لقوى الأمن الداخلي في لبنان، وأمّنت تسليم مبانٍ آمنة وعملية في الوقت المحدد، صُمّمت لدعم الاحتياجات التشغيلية لقوى الأمن الداخلي في مواقع مختلفة."
+   },
+   "sectors": [
+    "structural",
+    "pm"
+   ]
+  },
+  {
+   "id": "lebanese-army-facilities",
+   "slug": "lebanese-army-facilities",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/5f84349e7f623_projects.jpg",
+   "image_fit": "contain",
+   "gallery": [],
+   "title": {
+    "en": "Lebanese Army Facilities",
+    "ar": "منشآت الجيش اللبناني"
+   },
+   "location": {
+    "en": "Lebanon",
+    "ar": "لبنان"
+   },
+   "region": "lebanon",
+   "year": "ongoing",
+   "category": "government",
+   "type": {
+    "en": "Military facilities",
+    "ar": "منشآت عسكرية"
+   },
+   "scope": {
+    "en": "Maintenance & electromechanical services",
+    "ar": "صيانة وخدمات كهروميكانيكية"
+   },
+   "description": {
+    "en": "ETCO provides maintenance and electromechanical services for various Lebanese Army facilities. The work includes repairing, upgrading and maintaining air-conditioning and ventilation systems to ensure comfortable and efficient operation.\n\nETCO continues to support the army with reliable and timely technical services across multiple sites.",
+    "ar": "تقدّم إتكو خدمات الصيانة والأعمال الكهروميكانيكية لعدد من منشآت الجيش اللبناني، وتشمل إصلاح أنظمة التكييف والتهوئة وتحديثها وصيانتها لضمان تشغيل مريح وفعّال.\n\nوتواصل إتكو دعم الجيش بخدمات فنية موثوقة وفي الوقت المناسب في مواقع متعددة."
+   },
+   "sectors": [
+    "facility",
+    "mep"
+   ]
+  },
+  {
+   "id": "notre-dame-du-liban-hospital",
+   "slug": "notre-dame-du-liban-hospital",
+   "visible": true,
+   "featured": true,
+   "image": "cms/upload/projects/5f843565103ea_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Notre Dame du Liban Hospital",
+    "ar": "مستشفى سيدة لبنان"
+   },
+   "location": {
+    "en": "Jounieh, Lebanon",
+    "ar": "جونيه، لبنان"
+   },
+   "region": "mount-lebanon",
+   "year": "2003",
+   "category": "health-education",
+   "type": {
+    "en": "Hospital",
+    "ar": "مستشفى"
+   },
+   "scope": {
+    "en": "Air conditioning",
+    "ar": "تكييف الهواء"
+   },
+   "description": {
+    "en": "ETCO provided air-conditioning services for Notre Dame du Liban Hospital. The project involved the supply, installation and maintenance of efficient cooling systems to ensure a comfortable environment for patients and staff, supporting the hospital's commitment to high-quality healthcare facilities.",
+    "ar": "قدّمت إتكو خدمات التكييف لمستشفى سيدة لبنان، وشمل المشروع توريد أنظمة تبريد عالية الكفاءة وتركيبها وصيانتها لتأمين بيئة مريحة للمرضى والطاقم الطبي، بما يدعم التزام المستشفى بمرافق رعاية صحية عالية الجودة."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "american-university-of-beirut",
+   "slug": "american-university-of-beirut",
+   "visible": true,
+   "featured": true,
+   "image": "cms/upload/projects/5f84359c861ca_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "American University of Beirut (AUB)",
+    "ar": "الجامعة الأميركية في بيروت"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2002",
+   "category": "health-education",
+   "type": {
+    "en": "University facilities",
+    "ar": "منشآت جامعية"
+   },
+   "scope": {
+    "en": "Air conditioning",
+    "ar": "تكييف الهواء"
+   },
+   "description": {
+    "en": "ETCO provided air-conditioning services for the offices, laboratories and engineering buildings of the American University of Beirut, delivering reliable cooling systems that maintain comfortable and efficient working environments across these key campus facilities.",
+    "ar": "قدّمت إتكو خدمات التكييف لمكاتب ومختبرات ومباني الهندسة في الجامعة الأميركية في بيروت، مع أنظمة تبريد موثوقة تحافظ على بيئات عمل مريحة وفعّالة في هذه المرافق الأساسية من الحرم الجامعي."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "petite-cafe",
+   "slug": "petite-cafe",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/5f8435d3a5154_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Petite Café",
+    "ar": "بوتيت كافيه"
+   },
+   "location": {
+    "en": "Antelias, Lebanon",
+    "ar": "أنطلياس، لبنان"
+   },
+   "region": "mount-lebanon",
+   "year": "2007",
+   "category": "commercial",
+   "type": {
+    "en": "Renovation & fit-out",
+    "ar": "ترميم وتجهيز"
+   },
+   "scope": {
+    "en": "General contracting",
+    "ar": "مقاولات عامة"
+   },
+   "description": {
+    "en": "ETCO handled the full general-contracting services for the renovation of Petite Café in Antelias. The work included interior and exterior decoration, electromechanical installations and a security system.\n\nWe supplied and installed the air-conditioning and ventilation systems, completed all electrical and plumbing works, and prepared the outdoor café area with landscaping and decorative planting to create an inviting atmosphere.",
+    "ar": "تولّت إتكو خدمات المقاولات العامة الكاملة لترميم بوتيت كافيه في أنطلياس، وشملت الأعمال الديكور الداخلي والخارجي والتركيبات الكهروميكانيكية ونظاماً أمنياً.\n\nكما ورّدنا وركّبنا أنظمة التكييف والتهوئة، وأنجزنا جميع الأعمال الكهربائية والصحية، وجهّزنا المساحة الخارجية للمقهى بتنسيق حدائق وزراعة تزيينية لخلق أجواء جذّابة."
+   },
+   "sectors": [
+    "renovation",
+    "mep"
+   ]
+  },
+  {
+   "id": "raouche-rock-suites",
+   "slug": "raouche-rock-suites",
+   "visible": true,
+   "featured": true,
+   "image": "cms/upload/projects/683edd5a1cf07_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [
+    "cms/uploads/gallery/PHOTO-RAOUCHE ROCK HOTEL.jpg",
+    "cms/uploads/gallery/PHOTO-RAOUCHE ROCK RECEPTION.jpg",
+    "cms/uploads/gallery/PHOTO-RAOUCHE ROCK SUITES.jpg",
+    "cms/uploads/gallery/PHOTO-RAOUCHE CAFE.jpg",
+    "cms/uploads/gallery/PHOTO-2020-09-02-19-56-26.jpg",
+    "cms/uploads/gallery/PHOTO-2020-09-02-19-56-27.jpg",
+    "cms/uploads/gallery/PHOTO-2020-09-02-19-56-29.jpg"
+   ],
+   "title": {
+    "en": "Raouche Rock Suites",
+    "ar": "روشة روك سويتس"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2017",
+   "category": "hospitality",
+   "type": {
+    "en": "Hotel renovation",
+    "ar": "ترميم فندق"
+   },
+   "scope": {
+    "en": "General contracting & consulting",
+    "ar": "مقاولات عامة واستشارات"
+   },
+   "description": {
+    "en": "ETCO managed the full general contracting for the renovation of the Raouche Rock Suites hotel. The project included electromechanical works and the installation of security, air-conditioning, ventilation, electrical and plumbing systems. ETCO also handled interior design and furniture supply to elevate the hotel's ambiance.\n\nIn addition, we provided consulting services covering reservation, accounting and auditing systems, as well as hotel and staff insurance, to support smooth and professional operations.",
+    "ar": "أدارت إتكو أعمال المقاولات العامة الكاملة لترميم فندق روشة روك سويتس، وشمل المشروع الأعمال الكهروميكانيكية وتركيب أنظمة الأمن والتكييف والتهوئة والكهرباء والتمديدات الصحية. كما تولّت إتكو التصميم الداخلي وتوريد الأثاث للارتقاء بأجواء الفندق.\n\nإضافةً إلى ذلك، قدّمنا خدمات استشارية شملت أنظمة الحجوزات والمحاسبة والتدقيق، وتأمين الفندق والموظفين، لدعم تشغيل سلس واحترافي."
+   },
+   "sectors": [
+    "renovation",
+    "mep",
+    "pm"
+   ]
+  },
+  {
+   "id": "dunes-center",
+   "slug": "dunes-center",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/5f8436d2c08ea_projects.jpeg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Dunes Center",
+    "ar": "مركز دونز"
+   },
+   "location": {
+    "en": "Verdun, Beirut",
+    "ar": "فردان، بيروت"
+   },
+   "region": "beirut",
+   "year": "2002",
+   "category": "commercial",
+   "type": {
+    "en": "Retail center",
+    "ar": "مركز تسوّق"
+   },
+   "scope": {
+    "en": "Air conditioning",
+    "ar": "تكييف الهواء"
+   },
+   "description": {
+    "en": "ETCO installed the air-conditioning system for Dunes Center in Verdun, ensuring a comfortable environment for shoppers and staff throughout the retail space.",
+    "ar": "ركّبت إتكو نظام التكييف لمركز دونز في فردان، بما يضمن بيئة مريحة للمتسوّقين والعاملين في كامل المساحة التجارية."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "pangea-resort",
+   "slug": "pangea-resort",
+   "visible": true,
+   "featured": true,
+   "image": "cms/upload/projects/5f84375f0987e_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Pangea Resort",
+    "ar": "منتجع بانجيا"
+   },
+   "location": {
+    "en": "Jiyeh, Lebanon",
+    "ar": "الجيّة، لبنان"
+   },
+   "region": "mount-lebanon",
+   "year": "2009",
+   "category": "hospitality",
+   "type": {
+    "en": "Resort",
+    "ar": "منتجع"
+   },
+   "scope": {
+    "en": "Air conditioning & ventilation",
+    "ar": "تكييف وتهوئة"
+   },
+   "description": {
+    "en": "ETCO carried out the installation of the air-conditioning and ventilation systems at Pangea Resort in Jiyeh. The systems were designed to provide reliable and efficient climate control across the resort's indoor spaces, enhancing guest comfort and operational efficiency.",
+    "ar": "نفّذت إتكو تركيب أنظمة التكييف والتهوئة في منتجع بانجيا في الجيّة. وقد صُمّمت الأنظمة لتوفير تحكّم موثوق وفعّال بالمناخ في المساحات الداخلية للمنتجع، بما يعزّز راحة النزلاء وكفاءة التشغيل."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "abc-sweet-factory",
+   "slug": "abc-sweet-factory",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/5f8437891c754_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "ABC Sweet Factory",
+    "ar": "مصنع ABC للحلويات"
+   },
+   "location": {
+    "en": "Dubai, UAE",
+    "ar": "دبي، الإمارات العربية المتحدة"
+   },
+   "region": "uae",
+   "year": "2005",
+   "category": "industrial",
+   "type": {
+    "en": "Food production facility",
+    "ar": "منشأة لإنتاج الأغذية"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "ETCO executed the complete electromechanical works for the ABC Sweet Factory in Dubai. The project involved the installation of systems tailored to industrial-scale food production, ensuring efficient operations, safety and compliance with industry standards.",
+    "ar": "نفّذت إتكو كامل الأعمال الكهروميكانيكية لمصنع ABC للحلويات في دبي، وشمل المشروع تركيب أنظمة مصمّمة لإنتاج الأغذية على نطاق صناعي، بما يضمن كفاءة التشغيل والسلامة والامتثال لمعايير القطاع."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "nails-and-spa",
+   "slug": "nails-and-spa",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/5f8437b8db8bf_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Nails and Spa",
+    "ar": "نيلز أند سبا"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2012",
+   "category": "commercial",
+   "type": {
+    "en": "Beauty & wellness",
+    "ar": "تجميل وعناية"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "ETCO carried out the electromechanical works for Nails and Spa, including the installation of the essential systems that support the spa's daily operations, for a comfortable, efficient and safe environment for clients and staff.",
+    "ar": "نفّذت إتكو الأعمال الكهروميكانيكية لمركز نيلز أند سبا، بما في ذلك تركيب الأنظمة الأساسية التي تدعم عمله اليومي، لتأمين بيئة مريحة وفعّالة وآمنة للزبائن والعاملين."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "meshref-village",
+   "slug": "meshref-village",
+   "visible": true,
+   "featured": true,
+   "image": "cms/upload/projects/5f8437e437a03_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Meshref Village",
+    "ar": "قرية المشرف"
+   },
+   "location": {
+    "en": "Meshref, Lebanon",
+    "ar": "المشرف، لبنان"
+   },
+   "region": "mount-lebanon",
+   "year": "2003",
+   "category": "residential",
+   "type": {
+    "en": "Housing development",
+    "ar": "مجمّع سكني"
+   },
+   "scope": {
+    "en": "General contracting, electromechanical & décor",
+    "ar": "مقاولات عامة وأعمال كهروميكانيكية وديكور"
+   },
+   "description": {
+    "en": "ETCO provided comprehensive general-contracting services for the Meshref Village project. Our scope included full electromechanical installations and detailed interior and exterior décor works.\n\nThe project was delivered with attention to both functionality and aesthetics, contributing to a comfortable and well-equipped residential community.",
+    "ar": "قدّمت إتكو خدمات مقاولات عامة شاملة لمشروع قرية المشرف، وشمل نطاق العمل التركيبات الكهروميكانيكية الكاملة وأعمال الديكور الداخلي والخارجي المفصّلة.\n\nوقد سُلّم المشروع مع عناية بالوظيفة والجمالية معاً، ما أسهم في إنشاء مجتمع سكني مريح ومجهّز بالكامل."
+   },
+   "sectors": [
+    "structural",
+    "mep",
+    "renovation"
+   ]
+  },
+  {
+   "id": "skybar",
+   "slug": "skybar",
+   "visible": true,
+   "featured": true,
+   "image": "cms/upload/projects/5f843802143a8_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Skybar",
+    "ar": "سكاي بار"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2004",
+   "category": "hospitality",
+   "type": {
+    "en": "Entertainment venue",
+    "ar": "مكان ترفيهي"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "ETCO executed the electromechanical works for Skybar, one of Beirut's most iconic rooftop nightlife venues, located in the BIEL area. The installation delivered high-performance systems for lighting, ventilation and climate control, tailored to the venue's vibrant atmosphere.",
+    "ar": "نفّذت إتكو الأعمال الكهروميكانيكية لسكاي بار، أحد أشهر أماكن السهر على الأسطح في بيروت، والواقع في منطقة بيال. وقد أمّنت التركيبات أنظمة عالية الأداء للإضاءة والتهوئة والتحكّم بالمناخ، صُمّمت خصيصاً لتلائم أجواء المكان النابضة بالحياة."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "antika-bar",
+   "slug": "antika-bar",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/68474ef9e4722_projects.webp",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Antika Bar",
+    "ar": "أنتيكا بار"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2024",
+   "category": "hospitality",
+   "type": {
+    "en": "Lounge & entertainment",
+    "ar": "لاونج وترفيه"
+   },
+   "scope": {
+    "en": "Air conditioning & ventilation",
+    "ar": "تكييف وتهوئة"
+   },
+   "description": {
+    "en": "ETCO supplied and installed the air-conditioning and ventilation systems for Antika Bar, designed to maintain a comfortable indoor environment that supports the bar's stylish and lively atmosphere.",
+    "ar": "ورّدت إتكو وركّبت أنظمة التكييف والتهوئة لأنتيكا بار، وقد صُمّمت للحفاظ على بيئة داخلية مريحة تدعم أجواء المكان الأنيقة والحيوية."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "cadmus",
+   "slug": "cadmus",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/5f84384be04c8_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Cadmus Restaurant",
+    "ar": "مطعم قدموس"
+   },
+   "location": {
+    "en": "Taanayel, Bekaa",
+    "ar": "تعنايل، البقاع"
+   },
+   "region": "bekaa",
+   "year": "2017",
+   "category": "hospitality",
+   "type": {
+    "en": "Restaurant",
+    "ar": "مطعم"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "ETCO carried out the electromechanical works for Cadmus (Kadmous) Restaurant in Taanayel. The project included the installation of essential systems for efficient kitchen operations, comfortable dining spaces and a reliable infrastructure for daily activities.",
+    "ar": "نفّذت إتكو الأعمال الكهروميكانيكية لمطعم قدموس في تعنايل، وشمل المشروع تركيب الأنظمة الأساسية لضمان كفاءة عمل المطبخ وراحة صالات الطعام، وبنية تحتية موثوقة للأنشطة اليومية."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "agenor",
+   "slug": "agenor",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/5f84386e99a1a_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Agenor Restaurant",
+    "ar": "مطعم أجينور"
+   },
+   "location": {
+    "en": "Taanayel, Bekaa",
+    "ar": "تعنايل، البقاع"
+   },
+   "region": "bekaa",
+   "year": "2018",
+   "category": "hospitality",
+   "type": {
+    "en": "Restaurant",
+    "ar": "مطعم"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "ETCO performed the electromechanical works for Agenor Restaurant in Taanayel. The scope included the installation of systems for a comfortable dining environment, smooth kitchen operations and reliable day-to-day functionality.",
+    "ar": "نفّذت إتكو الأعمال الكهروميكانيكية لمطعم أجينور في تعنايل، وشمل نطاق العمل تركيب أنظمة تضمن بيئة طعام مريحة وسلاسة في عمل المطبخ وموثوقية في التشغيل اليومي."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "seven-sisters",
+   "slug": "seven-sisters",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/5f84389300bb7_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Seven Sisters",
+    "ar": "سفن سيسترز"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2020",
+   "category": "hospitality",
+   "type": {
+    "en": "Restaurant & lounge",
+    "ar": "مطعم ولاونج"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "ETCO completed the electromechanical works for Seven Sisters Restaurant, delivering efficient and reliable systems tailored to the venue's upscale ambiance, supporting its operational needs while maintaining guest comfort and energy efficiency.",
+    "ar": "أنجزت إتكو الأعمال الكهروميكانيكية لمطعم سفن سيسترز، مقدّمةً أنظمة فعّالة وموثوقة تتلاءم مع أجواء المكان الراقية، وتلبّي احتياجاته التشغيلية مع الحفاظ على راحة الضيوف وكفاءة استهلاك الطاقة."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "infinity-gym",
+   "slug": "infinity-gym",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/5f8438b59f8b2_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Infinity Gym",
+    "ar": "إنفينيتي جيم"
+   },
+   "location": {
+    "en": "Taanayel, Bekaa",
+    "ar": "تعنايل، البقاع"
+   },
+   "region": "bekaa",
+   "year": "2014",
+   "category": "commercial",
+   "type": {
+    "en": "Fitness & wellness",
+    "ar": "لياقة بدنية"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "ETCO executed the electromechanical works for Infinity Gym in Taanayel. The project included systems designed for optimal ventilation, climate control and energy efficiency, supporting a high-performance training environment.",
+    "ar": "نفّذت إتكو الأعمال الكهروميكانيكية لنادي إنفينيتي جيم في تعنايل، وشمل المشروع أنظمة مصمّمة لتأمين تهوئة مثالية وتحكّم بالمناخ وكفاءة في استهلاك الطاقة، دعماً لبيئة تدريب عالية الأداء."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "sayf",
+   "slug": "sayf",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/68475223d0531_projects.jpeg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Sayf",
+    "ar": "سيف"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2024",
+   "category": "hospitality",
+   "type": {
+    "en": "Luxury bar",
+    "ar": "بار فاخر"
+   },
+   "scope": {
+    "en": "Electromechanical & maintenance",
+    "ar": "أعمال كهروميكانيكية وصيانة"
+   },
+   "description": {
+    "en": "ETCO supplied and installed the air-conditioning and ventilation systems for Sayf, one of Lebanon's most luxurious bars and a popular nightlife spot in Beirut.\n\nBeyond the initial installation, ETCO holds an ongoing contract for repair and maintenance services, ensuring continuous, efficient operation and guest comfort.",
+    "ar": "ورّدت إتكو وركّبت أنظمة التكييف والتهوئة لـ«سيف»، أحد أفخم البارات في لبنان وأشهر وجهات السهر في بيروت.\n\nوإلى جانب التركيب الأولي، تتولّى إتكو عقداً مستمراً لأعمال الإصلاح والصيانة، بما يضمن تشغيلاً متواصلاً وفعّالاً وراحة دائمة للضيوف."
+   },
+   "sectors": [
+    "mep",
+    "facility"
+   ]
+  },
+  {
+   "id": "beirut-hall",
+   "slug": "beirut-hall",
+   "visible": true,
+   "featured": true,
+   "image": "cms/upload/projects/684774d8f0bc0_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Beirut Hall",
+    "ar": "بيروت هول"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2015",
+   "category": "commercial",
+   "type": {
+    "en": "Events & entertainment venue",
+    "ar": "قاعة مناسبات وترفيه"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "ETCO delivered the electromechanical works for Beirut Hall, including efficient air-conditioning, ventilation and essential systems that support the venue's operations and the comfort of large gatherings and events.",
+    "ar": "نفّذت إتكو الأعمال الكهروميكانيكية لقاعة بيروت هول، بما في ذلك أنظمة تكييف وتهوئة فعّالة وأنظمة أساسية تدعم عمل القاعة وتؤمّن الراحة خلال المناسبات والتجمّعات الكبيرة."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "sanayeh-homes",
+   "slug": "sanayeh-homes",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/684775b6e7233_projects.jpg",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Sanayeh Homes",
+    "ar": "صنايع هومز"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2010",
+   "category": "residential",
+   "type": {
+    "en": "Apartment building",
+    "ar": "مبنى سكني"
+   },
+   "scope": {
+    "en": "Electromechanical & ventilation",
+    "ar": "أعمال كهروميكانيكية وتهوئة"
+   },
+   "description": {
+    "en": "ETCO executed the full electromechanical and ventilation works for Sanayeh Homes in Beirut. The project involved the supply and installation of systems across the entire building, ensuring comfortable living conditions and reliable infrastructure for all residents.",
+    "ar": "نفّذت إتكو كامل الأعمال الكهروميكانيكية وأعمال التهوئة لمبنى صنايع هومز في بيروت، وشمل المشروع توريد الأنظمة وتركيبها في كامل المبنى، بما يضمن ظروف سكن مريحة وبنية تحتية موثوقة لجميع السكان."
+   },
+   "sectors": [
+    "mep"
+   ]
+  },
+  {
+   "id": "khashoggi-mosque-halls",
+   "slug": "khashoggi-mosque-halls",
+   "visible": true,
+   "featured": false,
+   "image": "cms/upload/projects/684776d5c155a_projects.png",
+   "image_fit": "cover",
+   "gallery": [],
+   "title": {
+    "en": "Muhyiddin Barghout & Al-Habri Halls – Khashoggi Mosque",
+    "ar": "قاعتا محي الدين برغوت والهبري – جامع الخاشقجي"
+   },
+   "location": {
+    "en": "Beirut, Lebanon",
+    "ar": "بيروت، لبنان"
+   },
+   "region": "beirut",
+   "year": "2010",
+   "category": "community",
+   "type": {
+    "en": "Religious & community spaces",
+    "ar": "مساحات دينية ومجتمعية"
+   },
+   "scope": {
+    "en": "Electromechanical",
+    "ar": "أعمال كهروميكانيكية"
+   },
+   "description": {
+    "en": "ETCO carried out the electromechanical works for Muhyiddin Barghout Hall and Al-Habri Hall within the Khashoggi Mosque complex. The project involved the installation of essential systems for proper ventilation, climate control and operational efficiency, supporting the halls' use for prayers, events and gatherings.",
+    "ar": "نفّذت إتكو الأعمال الكهروميكانيكية لقاعتَي محي الدين برغوت والهبري ضمن مجمّع جامع الخاشقجي، وشمل المشروع تركيب الأنظمة الأساسية لضمان التهوئة المناسبة والتحكّم بالمناخ وكفاءة التشغيل، بما يدعم استخدام القاعتين للصلاة والمناسبات والتجمّعات."
+   },
+   "sectors": [
+    "mep"
+   ]
+  }
+ ],
+ "gallery_categories": [
+  {
+   "id": "electrical",
+   "visible": true,
+   "name": {
+    "en": "Electrical",
+    "ar": "الكهرباء"
+   }
+  },
+  {
+   "id": "plumbing",
+   "visible": true,
+   "name": {
+    "en": "Plumbing",
+    "ar": "التمديدات الصحية"
+   }
+  },
+  {
+   "id": "hvac",
+   "visible": true,
+   "name": {
+    "en": "HVAC",
+    "ar": "التكييف والتهوئة"
+   }
+  },
+  {
+   "id": "interiors",
+   "visible": true,
+   "name": {
+    "en": "Interiors & fit-out",
+    "ar": "التصميم الداخلي والتجهيز"
+   }
+  }
+ ],
+ "gallery": [
+  {
+   "id": "g1",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[5].jpg",
+   "category": "electrical",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g2",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[6].jpg",
+   "category": "electrical",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g3",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[7].jpg",
+   "category": "electrical",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g4",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[9].jpg",
+   "category": "electrical",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g5",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[17].jpg",
+   "category": "electrical",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g6",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21.jpg",
+   "category": "plumbing",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g7",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[2].jpg",
+   "category": "plumbing",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g8",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[11].jpg",
+   "category": "plumbing",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g9",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[16].jpg",
+   "category": "plumbing",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g10",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-20-03-20.jpg",
+   "category": "hvac",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g11",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[3].jpg",
+   "category": "hvac",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g12",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[4].jpg",
+   "category": "hvac",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g13",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[8].jpg",
+   "category": "hvac",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g14",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[13].jpg",
+   "category": "hvac",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g15",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[14].jpg",
+   "category": "hvac",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g16",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[15].jpg",
+   "category": "hvac",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g17",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[18].jpg",
+   "category": "hvac",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g18",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-20-06-44.jpg",
+   "category": "hvac",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g19",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-08-21-20-21[1].jpg",
+   "category": "hvac",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g20",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-53.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g21",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-53[1].jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g22",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-44.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g23",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-46.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g24",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-48.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g25",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-48[1].jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g26",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-49.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g27",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-50.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g28",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-26.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g29",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-27.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g30",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-29.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g31",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-RAOUCHE CAFE.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "Raouche Rock Suites",
+    "ar": "روشة روك سويتس"
+   }
+  },
+  {
+   "id": "g32",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-RAOUCHE ROCK HOTEL.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "Raouche Rock Suites",
+    "ar": "روشة روك سويتس"
+   }
+  },
+  {
+   "id": "g33",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-RAOUCHE ROCK RECEPTION.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "Raouche Rock Suites",
+    "ar": "روشة روك سويتس"
+   }
+  },
+  {
+   "id": "g34",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-RAOUCHE ROCK SUITES.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "Raouche Rock Suites",
+    "ar": "روشة روك سويتس"
+   }
+  },
+  {
+   "id": "g35",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-07.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g36",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-08.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g37",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-10.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g38",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-10[1].jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  },
+  {
+   "id": "g39",
+   "visible": true,
+   "image": "cms/uploads/gallery/PHOTO-2020-09-02-19-56-11.jpg",
+   "category": "interiors",
+   "caption": {
+    "en": "",
+    "ar": ""
+   }
+  }
+ ],
+ "values": [
+  {
+   "id": "quality",
+   "visible": true,
+   "icon": "quality",
+   "title": {
+    "en": "Quality first",
+    "ar": "الجودة أولاً"
+   },
+   "text": {
+    "en": "Every system we install and every finish we deliver is held to the same high standard, from a small café to a 100,000 m² mall.",
+    "ar": "نلتزم بالمعيار العالي نفسه في كل نظام نركّبه وكل تشطيب ننجزه، من مقهى صغير إلى مول بمساحة 100,000 متر مربع."
+   }
+  },
+  {
+   "id": "integrity",
+   "visible": true,
+   "icon": "integrity",
+   "title": {
+    "en": "Integrity",
+    "ar": "النزاهة"
+   },
+   "text": {
+    "en": "Clear quotations, honest advice and transparent communication. We say what we will do, and we do what we say.",
+    "ar": "عروض أسعار واضحة، ونصيحة صادقة، وتواصل شفّاف. نقول ما سنفعله، ونفعل ما نقول."
+   }
+  },
+  {
+   "id": "expertise",
+   "visible": true,
+   "icon": "expertise",
+   "title": {
+    "en": "Expertise & professionalism",
+    "ar": "الخبرة والاحترافية"
+   },
+   "text": {
+    "en": "Skilled engineers and technicians with more than two decades of hands-on experience in Lebanon and the region.",
+    "ar": "مهندسون وفنيون مهرة يتمتّعون بخبرة ميدانية تزيد على عقدين في لبنان والمنطقة."
+   }
+  },
+  {
+   "id": "satisfaction",
+   "visible": true,
+   "icon": "satisfaction",
+   "title": {
+    "en": "Client satisfaction",
+    "ar": "رضا العملاء"
+   },
+   "text": {
+    "en": "We measure our success by our clients' satisfaction and build long-term relationships through maintenance and follow-up.",
+    "ar": "نقيس نجاحنا برضا عملائنا، ونبني علاقات طويلة الأمد من خلال الصيانة والمتابعة."
+   }
+  },
+  {
+   "id": "safety",
+   "visible": true,
+   "icon": "safety",
+   "title": {
+    "en": "Safety",
+    "ar": "السلامة"
+   },
+   "text": {
+    "en": "Safe sites, safe systems. From fire protection to electrical works, we follow strict standards to protect people and property.",
+    "ar": "مواقع آمنة وأنظمة آمنة. من الحماية من الحرائق إلى الأعمال الكهربائية، نتّبع معايير صارمة لحماية الأرواح والممتلكات."
+   }
+  },
+  {
+   "id": "sustainability",
+   "visible": true,
+   "icon": "sustainability",
+   "title": {
+    "en": "Sustainability",
+    "ar": "الاستدامة"
+   },
+   "text": {
+    "en": "We design energy-efficient systems and resilient structures that cost less to run and last longer.",
+    "ar": "نصمّم أنظمة موفّرة للطاقة ومنشآت متينة تكلّف أقل في التشغيل وتدوم لفترة أطول."
+   }
+  }
+ ],
+ "commitments": [
+  {
+   "id": "c1",
+   "visible": true,
+   "title": {
+    "en": "On time, on budget",
+    "ar": "في الموعد وضمن الميزانية"
+   },
+   "text": {
+    "en": "Precise scheduling and detailed budgeting keep every phase of your project on track.",
+    "ar": "جدولة دقيقة وموازنة تفصيلية تُبقي كل مرحلة من مشروعك على المسار الصحيح."
+   }
+  },
+  {
+   "id": "c2",
+   "visible": true,
+   "title": {
+    "en": "One accountable partner",
+    "ar": "شريك واحد مسؤول"
+   },
+   "text": {
+    "en": "Design, supply, installation and maintenance handled by one team that answers for the result.",
+    "ar": "التصميم والتوريد والتركيب والصيانة يتولّاها فريق واحد مسؤول عن النتيجة."
+   }
+  },
+  {
+   "id": "c3",
+   "visible": true,
+   "title": {
+    "en": "Support after handover",
+    "ar": "دعم بعد التسليم"
+   },
+   "text": {
+    "en": "Maintenance and repair contracts keep your systems performing for years after delivery.",
+    "ar": "عقود الصيانة والإصلاح تحافظ على أداء أنظمتك لسنوات بعد التسليم."
+   }
+  }
+ ],
+ "features": [
+  {
+   "id": "f1",
+   "visible": true,
+   "icon": "expertise",
+   "title": {
+    "en": "Expert & professional",
+    "ar": "خبراء ومحترفون"
+   },
+   "text": {
+    "en": "Qualified engineers and technicians for every trade.",
+    "ar": "مهندسون وفنيون مؤهّلون في جميع الاختصاصات."
+   }
+  },
+  {
+   "id": "f2",
+   "visible": true,
+   "icon": "approach",
+   "title": {
+    "en": "Professional approach",
+    "ar": "نهج احترافي"
+   },
+   "text": {
+    "en": "Clear planning, reporting and site supervision.",
+    "ar": "تخطيط واضح وتقارير منتظمة وإشراف ميداني."
+   }
+  },
+  {
+   "id": "f3",
+   "visible": true,
+   "icon": "quality",
+   "title": {
+    "en": "High-quality work",
+    "ar": "عمل عالي الجودة"
+   },
+   "text": {
+    "en": "Reliable systems and precise finishes that last.",
+    "ar": "أنظمة موثوقة وتشطيبات دقيقة تدوم."
+   }
+  },
+  {
+   "id": "f4",
+   "visible": true,
+   "icon": "satisfaction",
+   "title": {
+    "en": "Satisfaction guarantee",
+    "ar": "ضمان الرضا"
+   },
+   "text": {
+    "en": "We stay with you until the job is done right.",
+    "ar": "نبقى إلى جانبك حتى يُنجَز العمل على أكمل وجه."
+   }
+  }
+ ],
+ "join_reasons": [
+  {
+   "id": "j1",
+   "visible": true,
+   "icon": "projects",
+   "title": {
+    "en": "Landmark projects",
+    "ar": "مشاريع بارزة"
+   },
+   "text": {
+    "en": "Work on venues, hotels, hospitals and public facilities that people across Lebanon know.",
+    "ar": "اعمل على قاعات وفنادق ومستشفيات ومرافق عامة يعرفها اللبنانيون."
+   }
+  },
+  {
+   "id": "j2",
+   "visible": true,
+   "icon": "expertise",
+   "title": {
+    "en": "Learn from experienced people",
+    "ar": "تعلّم من أصحاب الخبرة"
+   },
+   "text": {
+    "en": "Grow alongside engineers and technicians with decades of field experience.",
+    "ar": "تطوّر إلى جانب مهندسين وفنيين يتمتّعون بخبرة ميدانية تمتد لعقود."
+   }
+  },
+  {
+   "id": "j3",
+   "visible": true,
+   "icon": "integrity",
+   "title": {
+    "en": "Real responsibility",
+    "ar": "مسؤولية حقيقية"
+   },
+   "text": {
+    "en": "We trust our people with real tasks on real sites from day one.",
+    "ar": "نمنح فريقنا مهامّ حقيقية في مواقع حقيقية منذ اليوم الأول."
+   }
+  }
+ ],
+ "profiles": [
+  {
+   "id": "pr1",
+   "visible": true,
+   "name": {
+    "en": "Mechanical & electrical engineers",
+    "ar": "مهندسون ميكانيكيون وكهربائيون"
+   }
+  },
+  {
+   "id": "pr2",
+   "visible": true,
+   "name": {
+    "en": "Civil engineers & site supervisors",
+    "ar": "مهندسون مدنيون ومشرفو مواقع"
+   }
+  },
+  {
+   "id": "pr3",
+   "visible": true,
+   "name": {
+    "en": "HVAC, electrical & plumbing technicians",
+    "ar": "فنيو تكييف وكهرباء وتمديدات صحية"
+   }
+  },
+  {
+   "id": "pr4",
+   "visible": true,
+   "name": {
+    "en": "Foremen & skilled workers",
+    "ar": "رؤساء ورش وعمّال مهرة"
+   }
+  },
+  {
+   "id": "pr5",
+   "visible": true,
+   "name": {
+    "en": "Procurement, accounting & administration",
+    "ar": "المشتريات والمحاسبة والإدارة"
+   }
+  }
+ ],
+ "positions": [],
+ "pages": {
+  "sectors": {
+   "title": {
+    "en": "Sectors",
+    "ar": "القطاعات"
+   },
+   "subtitle": {
+    "en": "Six areas of expertise, delivered by one accountable team.",
+    "ar": "ستة مجالات خبرة ينفّذها فريق واحد مسؤول."
+   },
+   "image": "cms/upload/projects/5f843308c4fd9_projects.jpg",
+   "intro": {
+    "en": "From the first sketch to years of maintenance after handover, ETCO covers the full life of your building. Choose a sector to see what we do and the projects behind it.",
+    "ar": "من الرسم الأول حتى سنوات من الصيانة بعد التسليم، تغطي إتكو دورة حياة مبناك بالكامل. اختر قطاعاً لتتعرّف إلى ما نقدّمه والمشاريع التي نفّذناها فيه."
+   },
+   "meta": {
+    "en": "ETCO sectors: MEP, structural & construction, renovation, infrastructure, facility management and project management.",
+    "ar": "قطاعات إتكو: الأعمال الكهروميكانيكية، الإنشاءات، الترميم، البنى التحتية، إدارة المرافق وإدارة المشاريع."
+   }
+  },
+  "projects": {
+   "title": {
+    "en": "Projects",
+    "ar": "المشاريع"
+   },
+   "subtitle": {
+    "en": "More than two decades of work across Lebanon and the region.",
+    "ar": "أكثر من عقدين من الإنجازات في لبنان والمنطقة."
+   },
+   "image": "cms/upload/projects/683ed34cd7d74_projects.jpg",
+   "intro": {
+    "en": "",
+    "ar": ""
+   },
+   "gallery_intro": {
+    "en": "Photos from our sites and installations: electrical panels, plumbing, HVAC systems and interior fit-outs.",
+    "ar": "صور من مواقعنا وتركيباتنا: لوحات كهربائية وتمديدات صحية وأنظمة تكييف وأعمال تجهيز داخلي."
+   },
+   "meta": {
+    "en": "Selected ETCO projects: BIEL, Pavillon Royal, Cascada, AUB, Notre Dame du Liban Hospital, Raouche Rock Suites and more.",
+    "ar": "مختارات من مشاريع إتكو: بيال، بافيون رويال، كاسكادا، الجامعة الأميركية في بيروت، مستشفى سيدة لبنان، روشة روك سويتس وغيرها."
+   }
+  },
+  "values": {
+   "title": {
+    "en": "Values",
+    "ar": "قيمنا"
+   },
+   "subtitle": {
+    "en": "The principles behind every project we deliver.",
+    "ar": "المبادئ التي يقوم عليها كل مشروع ننجزه."
+   },
+   "image": "cms/upload/projects/683edd5a1cf07_projects.jpg",
+   "intro": {
+    "en": "Our commitment to quality, integrity and client satisfaction has guided ETCO since 2001. These values shape how we plan, build and maintain, and how we treat the people we work with.",
+    "ar": "يقود التزامنا بالجودة والنزاهة ورضا العملاء مسيرة إتكو منذ عام 2001. وتحدّد هذه القيم طريقة تخطيطنا وبنائنا وصيانتنا، وطريقة تعاملنا مع كل من نعمل معهم."
+   },
+   "commitments_title": {
+    "en": "Our *commitments*",
+    "ar": "*التزاماتنا*"
+   },
+   "meta": {
+    "en": "ETCO values: quality, integrity, expertise, client satisfaction, safety and sustainability.",
+    "ar": "قيم إتكو: الجودة، النزاهة، الخبرة، رضا العملاء، السلامة والاستدامة."
+   }
+  },
+  "locations": {
+   "title": {
+    "en": "Locations",
+    "ar": "مواقعنا"
+   },
+   "subtitle": {
+    "en": "Headquartered in Beirut, working across Lebanon and the region.",
+    "ar": "مقرّنا في بيروت، ونعمل في مختلف أنحاء لبنان والمنطقة."
+   },
+   "image": "cms/upload/projects/5f84359c861ca_projects.jpg",
+   "intro": {
+    "en": "Our head office in Raouche, Beirut, coordinates projects throughout Lebanon, from the capital to Mount Lebanon and the Bekaa, as well as abroad in the United Arab Emirates.",
+    "ar": "يتولّى مكتبنا الرئيسي في الروشة، بيروت، تنسيق المشاريع في مختلف أنحاء لبنان، من العاصمة إلى جبل لبنان والبقاع، وصولاً إلى الإمارات العربية المتحدة."
+   },
+   "meta": {
+    "en": "ETCO head office in Raouche, Beirut, and project locations across Lebanon and the UAE.",
+    "ar": "مكتب إتكو الرئيسي في الروشة، بيروت، ومواقع مشاريعنا في لبنان والإمارات."
+   }
+  },
+  "about": {
+   "title": {
+    "en": "About us",
+    "ar": "من نحن"
+   },
+   "subtitle": {
+    "en": "ETCO for General Trading & Contracting, building in Lebanon since 2001.",
+    "ar": "إتكو للتجارة العامة والمقاولات، نبني في لبنان منذ عام 2001."
+   },
+   "image": "images/3-2.jpg",
+   "story_title": {
+    "en": "Transforming visions *into reality*",
+    "ar": "نحوّل الرؤى *إلى واقع*"
+   },
+   "story": {
+    "en": "Founded in 2001 by Oussama Youssef, ETCO for General Trading & Contracting is dedicated to delivering top-quality construction, engineering and project management services.\n\nWith a team of highly skilled professionals, we transform our clients' visions into reality, bringing excellence and innovation to every project. Our commitment to quality, integrity and client satisfaction drives us to build sustainable and resilient structures, and has made us a trusted partner for exhibition centers, hospitals, universities, government facilities, hotels and homes across Lebanon and the region.",
+    "ar": "تأسّست إتكو للتجارة العامة والمقاولات عام 2001 على يد أسامة يوسف، وهي ملتزمة بتقديم خدمات عالية الجودة في مجالات البناء والهندسة وإدارة المشاريع.\n\nبفضل فريق من المهنيين ذوي الكفاءة العالية، نحوّل رؤى عملائنا إلى واقع، ونضفي التميّز والابتكار على كل مشروع. ويدفعنا التزامنا بالجودة والنزاهة ورضا العملاء إلى تشييد منشآت مستدامة ومتينة، ما جعلنا شريكاً موثوقاً لمراكز معارض ومستشفيات وجامعات ومرافق حكومية وفنادق ومساكن في مختلف أنحاء لبنان والمنطقة."
+   },
+   "story_image": "cms/upload/pages/8_page.jpg",
+   "mission": {
+    "en": "To deliver construction, MEP and maintenance services of the highest quality, on time and within budget, through skilled people and honest partnerships.",
+    "ar": "تقديم خدمات البناء والأعمال الكهروميكانيكية والصيانة بأعلى مستويات الجودة، في الوقت المحدد وضمن الميزانية، من خلال فريق ماهر وشراكات قائمة على الثقة."
+   },
+   "vision": {
+    "en": "To be Lebanon's most trusted contracting partner, shaping a sustainable and resilient built environment for future generations.",
+    "ar": "أن نكون الشريك الأكثر ثقة في مجال المقاولات في لبنان، وأن نسهم في بناء بيئة عمرانية مستدامة ومتينة للأجيال القادمة."
+   },
+   "features_title": {
+    "en": "Why *ETCO*",
+    "ar": "لماذا *إتكو*"
+   },
+   "meta": {
+    "en": "About ETCO for General Trading & Contracting, founded in 2001 by Oussama Youssef in Beirut, Lebanon.",
+    "ar": "تعرّف إلى إتكو للتجارة العامة والمقاولات، التي أسّسها أسامة يوسف عام 2001 في بيروت، لبنان."
+   }
+  },
+  "contact": {
+   "title": {
+    "en": "Contact us",
+    "ar": "اتصل بنا"
+   },
+   "subtitle": {
+    "en": "Have a project in mind? Let's talk.",
+    "ar": "لديك مشروع؟ لنتحدّث."
+   },
+   "image": "cms/upload/banners/185f4e37371dca5_banner.jpg",
+   "intro": {
+    "en": "Tell us about your project or question and our team will get back to you as soon as possible. You can also call us or drop by our office during working hours.",
+    "ar": "أخبرنا عن مشروعك أو استفسارك وسيعاود فريقنا التواصل معك في أقرب وقت ممكن. يمكنك أيضاً الاتصال بنا أو زيارة مكتبنا خلال ساعات العمل."
+   },
+   "meta": {
+    "en": "Contact ETCO in Raouche, Beirut: +961 3 338 648 · etco14@hotmail.com",
+    "ar": "تواصل مع إتكو في الروشة، بيروت: ‎+961 3 338 648 · etco14@hotmail.com"
+   }
+  },
+  "careers": {
+   "title": {
+    "en": "Join us",
+    "ar": "انضم إلينا"
+   },
+   "subtitle": {
+    "en": "Build your career on projects that matter.",
+    "ar": "ابنِ مسيرتك المهنية في مشاريع تترك أثراً."
+   },
+   "image": "cms/upload/banners/216661be14d4733_banner.jpg",
+   "intro": {
+    "en": "At ETCO, engineers, technicians and site teams work side by side on some of Lebanon's best-known venues, hotels and public facilities. We value skill, reliability and the will to learn, and we give our people real responsibility on real projects.",
+    "ar": "في إتكو، يعمل المهندسون والفنيون وفرق المواقع جنباً إلى جنب في بعض أشهر القاعات والفنادق والمرافق العامة في لبنان. نقدّر الكفاءة والالتزام والرغبة في التعلّم، ونمنح فريقنا مسؤولية حقيقية في مشاريع حقيقية."
+   },
+   "profiles_title": {
+    "en": "Profiles we look for",
+    "ar": "الكفاءات التي نبحث عنها"
+   },
+   "meta": {
+    "en": "Careers at ETCO: engineers, technicians, site supervisors and administrative staff in Lebanon.",
+    "ar": "الوظائف في إتكو: مهندسون وفنيون ومشرفو مواقع وموظفون إداريون في لبنان."
+   }
+  }
+ },
+ "labels": {
+  "nav_sectors": {
+   "en": "Sectors",
+   "ar": "القطاعات"
+  },
+  "nav_projects": {
+   "en": "Projects",
+   "ar": "المشاريع"
+  },
+  "nav_values": {
+   "en": "Values",
+   "ar": "قيمنا"
+  },
+  "nav_locations": {
+   "en": "Locations",
+   "ar": "مواقعنا"
+  },
+  "nav_about": {
+   "en": "About us",
+   "ar": "من نحن"
+  },
+  "nav_contact": {
+   "en": "Contact us",
+   "ar": "اتصل بنا"
+  },
+  "nav_join": {
+   "en": "Join us",
+   "ar": "انضم إلينا"
+  },
+  "nav_home": {
+   "en": "Home",
+   "ar": "الرئيسية"
+  },
+  "all_sectors": {
+   "en": "All sectors",
+   "ar": "جميع القطاعات"
+  },
+  "all_projects": {
+   "en": "All projects",
+   "ar": "جميع المشاريع"
+  },
+  "learn_more": {
+   "en": "Learn more",
+   "ar": "اعرف المزيد"
+  },
+  "view_project": {
+   "en": "View project",
+   "ar": "عرض المشروع"
+  },
+  "discover_projects": {
+   "en": "Discover our projects",
+   "ar": "اكتشف مشاريعنا"
+  },
+  "call_us": {
+   "en": "Call us",
+   "ar": "اتصل بنا"
+  },
+  "email_us": {
+   "en": "Email us",
+   "ar": "راسلنا"
+  },
+  "working_hours": {
+   "en": "Working hours",
+   "ar": "ساعات العمل"
+  },
+  "address": {
+   "en": "Address",
+   "ar": "العنوان"
+  },
+  "phone": {
+   "en": "Phone",
+   "ar": "الهاتف"
+  },
+  "email": {
+   "en": "Email",
+   "ar": "البريد الإلكتروني"
+  },
+  "location": {
+   "en": "Location",
+   "ar": "الموقع"
+  },
+  "year": {
+   "en": "Year",
+   "ar": "السنة"
+  },
+  "category": {
+   "en": "Category",
+   "ar": "الفئة"
+  },
+  "type": {
+   "en": "Type",
+   "ar": "النوع"
+  },
+  "scope": {
+   "en": "Scope of work",
+   "ar": "نطاق العمل"
+  },
+  "filter_all": {
+   "en": "All",
+   "ar": "الكل"
+  },
+  "ongoing": {
+   "en": "Ongoing",
+   "ar": "مستمر"
+  },
+  "tab_projects": {
+   "en": "Projects",
+   "ar": "المشاريع"
+  },
+  "tab_gallery": {
+   "en": "Photo gallery",
+   "ar": "معرض الصور"
+  },
+  "form_name": {
+   "en": "Full name",
+   "ar": "الاسم الكامل"
+  },
+  "form_email": {
+   "en": "Email address",
+   "ar": "البريد الإلكتروني"
+  },
+  "form_phone": {
+   "en": "Phone number",
+   "ar": "رقم الهاتف"
+  },
+  "form_subject": {
+   "en": "Subject",
+   "ar": "الموضوع"
+  },
+  "form_message": {
+   "en": "Message",
+   "ar": "الرسالة"
+  },
+  "form_send": {
+   "en": "Send message",
+   "ar": "إرسال الرسالة"
+  },
+  "form_success": {
+   "en": "Thank you! Your message has been sent. We will get back to you shortly.",
+   "ar": "شكراً لك! تم إرسال رسالتك وسنتواصل معك قريباً."
+  },
+  "form_error": {
+   "en": "Please check the highlighted fields and try again.",
+   "ar": "يرجى التحقق من الحقول المطلوبة والمحاولة مجدداً."
+  },
+  "form_position": {
+   "en": "Position or field of interest",
+   "ar": "الوظيفة أو المجال المطلوب"
+  },
+  "form_cv": {
+   "en": "Your CV (PDF or Word, max 5 MB)",
+   "ar": "سيرتك الذاتية (PDF أو Word، بحد أقصى 5 ميغابايت)"
+  },
+  "form_cover": {
+   "en": "Tell us about yourself",
+   "ar": "عرّفنا بنفسك"
+  },
+  "form_apply": {
+   "en": "Submit application",
+   "ar": "إرسال الطلب"
+  },
+  "apply_success": {
+   "en": "Thank you! Your application has been received. We will contact you if your profile matches our needs.",
+   "ar": "شكراً لك! استلمنا طلبك وسنتواصل معك إذا كان ملفك يتناسب مع احتياجاتنا."
+  },
+  "form_required": {
+   "en": "Required",
+   "ar": "مطلوب"
+  },
+  "form_title": {
+   "en": "Send us a message",
+   "ar": "أرسل لنا رسالة"
+  },
+  "apply_title": {
+   "en": "Apply now",
+   "ar": "قدّم طلبك الآن"
+  },
+  "related_projects": {
+   "en": "Related projects",
+   "ar": "مشاريع ذات صلة"
+  },
+  "other_sectors": {
+   "en": "Other sectors",
+   "ar": "قطاعات أخرى"
+  },
+  "what_we_do": {
+   "en": "What we do",
+   "ar": "ما نقدّمه"
+  },
+  "prev_project": {
+   "en": "Previous",
+   "ar": "السابق"
+  },
+  "next_project": {
+   "en": "Next",
+   "ar": "التالي"
+  },
+  "back_projects": {
+   "en": "All projects",
+   "ar": "جميع المشاريع"
+  },
+  "our_office": {
+   "en": "Head office",
+   "ar": "المكتب الرئيسي"
+  },
+  "get_directions": {
+   "en": "Get directions",
+   "ar": "احصل على الاتجاهات"
+  },
+  "where_worked": {
+   "en": "Where we have *worked*",
+   "ar": "أين *عملنا*"
+  },
+  "projects_word": {
+   "en": "projects",
+   "ar": "مشاريع"
+  },
+  "project_word": {
+   "en": "project",
+   "ar": "مشروع"
+  },
+  "open_positions": {
+   "en": "Open positions",
+   "ar": "الوظائف المتاحة"
+  },
+  "no_positions": {
+   "en": "There are no open positions right now, but we are always happy to meet talented people. Send us a spontaneous application below.",
+   "ar": "لا توجد وظائف شاغرة حالياً، لكننا نرحّب دائماً بالكفاءات. أرسل لنا طلباً تلقائياً عبر النموذج أدناه."
+  },
+  "apply": {
+   "en": "Apply",
+   "ar": "تقدّم"
+  },
+  "milestones": {
+   "en": "Milestones",
+   "ar": "محطات *بارزة*"
+  },
+  "mission": {
+   "en": "Our mission",
+   "ar": "مهمّتنا"
+  },
+  "vision": {
+   "en": "Our vision",
+   "ar": "رؤيتنا"
+  },
+  "why_join": {
+   "en": "Why join *ETCO*",
+   "ar": "لماذا تنضم إلى *إتكو*"
+  },
+  "footer_rights": {
+   "en": "All rights reserved.",
+   "ar": "جميع الحقوق محفوظة."
+  },
+  "footer_explore": {
+   "en": "Explore",
+   "ar": "تصفّح"
+  },
+  "footer_contact": {
+   "en": "Contact",
+   "ar": "تواصل معنا"
+  },
+  "scroll": {
+   "en": "Scroll",
+   "ar": "مرّر"
+  },
+  "menu": {
+   "en": "Menu",
+   "ar": "القائمة"
+  },
+  "close": {
+   "en": "Close",
+   "ar": "إغلاق"
+  },
+  "not_found_title": {
+   "en": "Page not found",
+   "ar": "الصفحة غير موجودة"
+  },
+  "not_found_text": {
+   "en": "The page you are looking for does not exist or has moved.",
+   "ar": "الصفحة التي تبحث عنها غير موجودة أو تم نقلها."
+  },
+  "back_home": {
+   "en": "Back to home",
+   "ar": "العودة إلى الرئيسية"
+  },
+  "photos": {
+   "en": "Photos",
+   "ar": "صور"
+  },
+  "since": {
+   "en": "Since",
+   "ar": "منذ"
+  },
+  "spontaneous": {
+   "en": "Spontaneous application",
+   "ar": "طلب تلقائي"
+  },
+  "send_email": {
+   "en": "Send us an email",
+   "ar": "أرسل لنا بريداً إلكترونياً"
+  },
+  "sector_projects_none": {
+   "en": "Contact us to discuss your project in this sector.",
+   "ar": "تواصل معنا لمناقشة مشروعك في هذا القطاع."
+  }
+ }
+}
